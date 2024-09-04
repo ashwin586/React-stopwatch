@@ -49,4 +49,4 @@ Make sure you have **Node.js** and **npm** (Node Package Manager) installed on y
 >The app will be available at http://localhost:5173.
 
 ### Screenshot
-(./src//assets//images/Screenshot%20from%202024-09-04%2021-33-49.png)
+![Screenshot of the App.](./src//assets//images/Screenshot%20from%202024-09-04%2021-33-49.png)
