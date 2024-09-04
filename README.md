@@ -45,7 +45,8 @@ Make sure you have **Node.js** and **npm** (Node Package Manager) installed on y
    npm run dev
    ```
 
-[!NOTE]
-The app will be available at http://localhost:5173.
+>[!NOTE]
+>The app will be available at http://localhost:5173.
 
-![Screenshot:](./src//assets//images/Screenshot%20from%202024-09-04%2021-33-49.png)
+### Screenshot
+(./src//assets//images/Screenshot%20from%202024-09-04%2021-33-49.png)
