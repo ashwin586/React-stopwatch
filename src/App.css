@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.stopwatch__container{
+    /* border: 1px solid white; */
+    padding: 2em;
+    text-align: center;
+}
+
+.timer{
+    padding-bottom: 2em;
+}
+
+.times{
+    font-size: 5em;
+    font-weight: 400;
+
+}
